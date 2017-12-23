@@ -21,11 +21,12 @@ with a discussion of open challenges and areas for future investigation.
 
 # Requirements
 
-Tensorflow
-Keras
-Numpy
-Matplotlib
-Matlab   (not necessary and required for generating comparison plot)
+- Tensorflow
+- Keras
+- Numpy
+- Matplotlib
+- Matlab   (not necessary and required for generating comparison plot)
 
+#  Re-generated Result 
 
 
