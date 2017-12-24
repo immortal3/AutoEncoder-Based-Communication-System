@@ -40,12 +40,20 @@ Re-generated Result            |  Research Paper
 ![BER Perfomance of (7,4) AutoEncoder](https://github.com/immortal3/AutoEncoder-Based-Communication-System/blob/master/git-photo/plot_1.PNG "BER Perfomance of (7,4) AutoEncoder")  | ![Research Paper Result-1](https://github.com/immortal3/AutoEncoder-Based-Communication-System/blob/master/git-photo/research_paper_1.PNG)
 ![BER Perfomance of R=1 AutoEncoders](https://github.com/immortal3/AutoEncoder-Based-Communication-System/blob/master/git-photo/plot_2.PNG "BER Perfomance of R=1 AutoEncoders") | ![Research Paper Result-2](https://github.com/immortal3/AutoEncoder-Based-Communication-System/blob/master/git-photo/research_paper_2.PNG)
 
+# Constellation diagram 
 
+### (2,2) AutoEncoder's Constellation diagram
+
+Following Constellation diagram are learned by Autoencoder after training it.
+![(2,2) Autoencoder constellation diagram](https://github.com/immortal3/AutoEncoder-Based-Communication-System/blob/master/git-photo/cons_1.PNG)
+
+
+### (2,4) AutoEncoder Constellation diagram
+![(2,4) Autoencoder constellation diagram](https://github.com/immortal3/AutoEncoder-Based-Communication-System/blob/master/git-photo/cons_2.PNG)
 
 
 # About Me
-Name : Patel Dipkumar 
-
+Name : Patel Dipkumar
 This work was done by me during wireless communication Lab Project where I choosed project in research category.
 
 
