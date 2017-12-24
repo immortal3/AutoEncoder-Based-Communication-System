@@ -10,14 +10,15 @@ complete different apporach than many other paper and tries to introduce deep le
 
 # Abstract of Research Paper
 
-We present and discuss several novel applications of deep learning for the physical layer. By interpreting a communications system as an
+*We present and discuss several novel applications of deep learning for the physical layer. By interpreting a communications system as an
 autoencoder, we develop a fundamental new way to think about communications system design as an end-to-end reconstruction task that seeks
 to jointly optimize transmitter and receiver components in a single process. We show how this idea can be extended to networks of multiple
 transmitters and receivers and present the concept of radio transformer networks as a means to incorporate expert domain knowledge in the
 machine learning model. Lastly, we demonstrate the application of convolutional neural networks on raw IQ samples for modulation
 classification which achieves competitive accuracy with respect to traditional schemes relying on expert features. This paper is concluded
-with a discussion of open challenges and areas for future investigation.
+with a discussion of open challenges and areas for future investigation.*
 
+From "An Introduction to Deep Learning for the Physical Layer" http://ieeexplore.ieee.org/document/8054694/
 
 # Requirements
 
@@ -29,4 +30,5 @@ with a discussion of open challenges and areas for future investigation.
 
 #  Re-generated Result 
 
-
+![BER Perfomance of (7,4) AutoEncoder](https://github.com/immortal3/AutoEncoder-Based-Communication-System/blob/master/git-photo/plot_1.PNG)
+![BER Perfomance of R=1 AutoEncoders](https://github.com/immortal3/AutoEncoder-Based-Communication-System/blob/master/git-photo/plot_2.PNG)
