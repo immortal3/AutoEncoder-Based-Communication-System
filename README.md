@@ -53,7 +53,7 @@ Following Constellation diagram are learned by Autoencoder after training it.
 
 
 # About Me
-Name : Patel Dipkumar
+Name : Patel Dipkumar.
 This work was done by me during wireless communication Lab Project where I choosed project in research category.
 
 
