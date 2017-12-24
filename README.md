@@ -29,6 +29,7 @@ From "An Introduction to Deep Learning for the Physical Layer" http://ieeexplore
 - Matlab   (not necessary and required for generating comparison plot)
 
 #  Re-generated Result 
-
-![BER Perfomance of (7,4) AutoEncoder](https://github.com/immortal3/AutoEncoder-Based-Communication-System/blob/master/git-photo/plot_1.PNG)
-![BER Perfomance of R=1 AutoEncoders](https://github.com/immortal3/AutoEncoder-Based-Communication-System/blob/master/git-photo/plot_2.PNG)
+Re-generated Result            |  Research Paper
+:-----------------------------:|:-------------------------:
+![BER Perfomance of (7,4) AutoEncoder](https://github.com/immortal3/AutoEncoder-Based-Communication-System/blob/master/git-photo/plot_1.PNG "BER Perfomance of (7,4) AutoEncoder")  | 
+![BER Perfomance of R=1 AutoEncoders](https://github.com/immortal3/AutoEncoder-Based-Communication-System/blob/master/git-photo/plot_2.PNG "BER Perfomance of R=1 AutoEncoders") | 
