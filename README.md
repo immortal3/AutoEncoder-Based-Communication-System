@@ -52,9 +52,7 @@ Following Constellation diagram are learned by Autoencoder after training it.
 ![(2,4) Autoencoder constellation diagram](https://github.com/immortal3/AutoEncoder-Based-Communication-System/blob/master/git-photo/cons_2.PNG)
 
 
-# About Me
-Name : Patel Dipkumar.
-This work was done by me during wireless communication Lab Project where I choosed project in research category.
+
 
 
 
